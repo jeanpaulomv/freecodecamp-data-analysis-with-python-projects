@@ -4,9 +4,11 @@
 This repository contains projects and exercises from the "Data Analysis with Python" course on FreeCodeCamp, where I earned my certificate. These practical projects cover data cleaning, visualization, and statistical analysis using NumPy, Pandas, Matplotlib, and Seaborn. This collection is designed to enhance data analysis skills through hands-on examples and real-world applications.
 
 ## 🗂️ Projects Included
-- **Data Cleaning**: Techniques and methodologies for preparing raw data for analysis.
-- **Data Visualization**: Creation of informative visualizations using Matplotlib and Seaborn to identify trends and patterns.
-- **Statistical Analysis**: Application of statistical methods to analyze and interpret data, including hypothesis testing and correlation analysis.
+- **[Demographic Data Analyzer](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/1aaae1d5ff5e48d9013ed5969c494fc0f574059e/Demographic%20Data%20Analyzer)**: Analysis of demographic data to uncover patterns and insights.
+- **[Mean-Variance-Standard Deviation Calculator](path/to/mean-variance-standard-deviation-calculator)**: Calculation of fundamental statistical metrics to understand data distribution.
+- **[Medical Data Visualizer](path/to/medical-data-visualizer)**: Visualization of medical data to identify trends and anomalies.
+- **[Page View Time Series Visualizer](path/to/page-view-time-series-visualizer)**: Visualization of time series data to track page view trends over time.
+- **[Sea Level Predictor](path/to/sea-level-predictor)**: Predictive analysis of sea level changes based on historical data.
 
 ## 🛠️ Methodology
 1. **Data Cleaning**: Cleaning and processing data to ensure accuracy and consistency.
