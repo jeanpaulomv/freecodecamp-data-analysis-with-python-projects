@@ -4,9 +4,11 @@
 Este repositorio contiene proyectos y ejercicios del curso "Data Analysis with Python" en FreeCodeCamp, donde obtuve mi certificado. Estos proyectos prácticos abarcan la limpieza de datos, visualización y análisis estadístico utilizando NumPy, Pandas, Matplotlib y Seaborn. Esta colección está diseñada para mejorar las habilidades en análisis de datos a través de ejemplos prácticos y aplicaciones del mundo real.
 
 ## 🗂️ Proyectos Incluidos
-- **Limpieza de Datos**: Técnicas y metodologías para preparar datos en bruto para el análisis.
-- **Visualización de Datos**: Creación de visualizaciones informativas utilizando Matplotlib y Seaborn para identificar tendencias y patrones.
-- **Análisis Estadístico**: Aplicación de métodos estadísticos para analizar e interpretar datos, incluyendo pruebas de hipótesis y análisis de correlación.
+- **[Analizador de Datos Demográficos](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/1aaae1d5ff5e48d9013ed5969c494fc0f574059e/Demographic%20Data%20Analyzer)**: Análisis de datos demográficos para descubrir patrones e insights.
+- **[Calculadora de Media-Varianza-Desviación Estándar](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/de59ba40cafedffa03ce4b93ecb6258e16f4070d/Mean-Variance-Standard%20Deviation%20Calculator)**: Cálculo de métricas estadísticas fundamentales para entender la distribución de datos.
+- **[Visualizador de Datos Médicos](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/de59ba40cafedffa03ce4b93ecb6258e16f4070d/Medical%20Data%20Visualizer)**: Visualización de datos médicos para identificar tendencias y anomalías.
+- **[Visualizador de Series Temporales de Vistas de Página](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/de59ba40cafedffa03ce4b93ecb6258e16f4070d/Page%20View%20Time%20Series%20Visualizer)**: Visualización de datos de series temporales para rastrear tendencias de vistas de página a lo largo del tiempo.
+- **[Predicción del Nivel del Mar](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/de59ba40cafedffa03ce4b93ecb6258e16f4070d/Sea%20Level%20Predictor)**: Análisis predictivo de cambios en el nivel del mar basado en datos históricos.
 
 ## 🛠️ Metodología
 1. **Limpieza de Datos**: Limpieza y procesamiento de datos para asegurar precisión y consistencia.
