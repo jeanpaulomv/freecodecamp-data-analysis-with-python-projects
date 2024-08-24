@@ -5,10 +5,10 @@ This repository contains projects and exercises from the "Data Analysis with Pyt
 
 ## 🗂️ Projects Included
 - **[Demographic Data Analyzer](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/1aaae1d5ff5e48d9013ed5969c494fc0f574059e/Demographic%20Data%20Analyzer)**: Analysis of demographic data to uncover patterns and insights.
-- **[Mean-Variance-Standard Deviation Calculator](path/to/mean-variance-standard-deviation-calculator)**: Calculation of fundamental statistical metrics to understand data distribution.
-- **[Medical Data Visualizer](path/to/medical-data-visualizer)**: Visualization of medical data to identify trends and anomalies.
-- **[Page View Time Series Visualizer](path/to/page-view-time-series-visualizer)**: Visualization of time series data to track page view trends over time.
-- **[Sea Level Predictor](path/to/sea-level-predictor)**: Predictive analysis of sea level changes based on historical data.
+- **[Mean-Variance-Standard Deviation Calculator](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/de59ba40cafedffa03ce4b93ecb6258e16f4070d/Mean-Variance-Standard%20Deviation%20Calculator)**: Calculation of fundamental statistical metrics to understand data distribution.
+- **[Medical Data Visualizer](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/de59ba40cafedffa03ce4b93ecb6258e16f4070d/Medical%20Data%20Visualizer)**: Visualization of medical data to identify trends and anomalies.
+- **[Page View Time Series Visualizer](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/de59ba40cafedffa03ce4b93ecb6258e16f4070d/Page%20View%20Time%20Series%20Visualizer)**: Visualization of time series data to track page view trends over time.
+- **[Sea Level Predictor](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/de59ba40cafedffa03ce4b93ecb6258e16f4070d/Sea%20Level%20Predictor)**: Predictive analysis of sea level changes based on historical data.
 
 ## 🛠️ Methodology
 1. **Data Cleaning**: Cleaning and processing data to ensure accuracy and consistency.
