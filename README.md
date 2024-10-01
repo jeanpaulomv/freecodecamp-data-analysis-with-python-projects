@@ -1,4 +1,4 @@
-# 📊 Data Analysis Projects with Python
+# Data Analysis Projects with Python
 
 ## 📑 Overview
 This repository contains projects and exercises from the "Data Analysis with Python" course on FreeCodeCamp, where I earned my certificate. These practical projects cover data cleaning, visualization, and statistical analysis using NumPy, Pandas, Matplotlib, and Seaborn. This collection is designed to enhance data analysis skills through hands-on examples and real-world applications.
@@ -29,4 +29,7 @@ This repository contains projects and exercises from the "Data Analysis with Pyt
 - **Statistical Analysis**: Increased capacity to apply statistical methods and interpret complex datasets.
 
 ## ✉️ Contact
-For more information or inquiries, please contact me on [LinkedIn](https://linkedin.com/in/jeanpaulomv/).
+If you have any questions or would like more information, feel free to contact me.
+
+<a href="https://www.linkedin.com/in/jeanpaulomv/"><img src="https://img.shields.io/badge/jeanpaulomv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+<a href="https://www.datascienceportfol.io/jeanpaulomv"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="30"></a>
