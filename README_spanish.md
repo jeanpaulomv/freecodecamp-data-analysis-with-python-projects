@@ -1,7 +1,9 @@
 # Proyectos de Análisis de Datos con Python
 
 ## Descripción General
-Este repositorio contiene proyectos y ejercicios del curso "Data Analysis with Python" en FreeCodeCamp, donde obtuve mi certificado. Estos proyectos prácticos abarcan la limpieza de datos, visualización y análisis estadístico utilizando NumPy, Pandas, Matplotlib y Seaborn. Esta colección está diseñada para mejorar las habilidades en análisis de datos a través de ejemplos prácticos y aplicaciones del mundo real.
+Estos proyectos prácticos abarcan la **limpieza de datos, visualización y análisis estadístico** utilizando **NumPy, Pandas, Matplotlib y Seaborn**.
+
+Proyectos pertenecientes al programa "Data Analysis with Python" en FreeCodeCamp, donde obtuve mi certificado. t
 
 ## Proyectos Incluidos
 - **[Analizador de Datos Demográficos](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects/tree/1aaae1d5ff5e48d9013ed5969c494fc0f574059e/Demographic%20Data%20Analyzer)**: Análisis de datos demográficos para descubrir patrones e insights.
